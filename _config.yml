@@ -2,7 +2,7 @@ title:              Local Nation
 email:              me@localnation.in
 description:        Local Blog by Local Nation
 author:             Local Nation
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            "/blog"
 url:                "https://local-nation.github.io"
 
 # Social Profiles
